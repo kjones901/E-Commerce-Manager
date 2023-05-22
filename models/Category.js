@@ -29,6 +29,3 @@ Category.init(
 );
 
 module.exports = Category;
-
-
-// use the key word .belongsto within activity 21
